@@ -1,3 +1,3 @@
-module uim.service.servicename.apis;
+module uim.service.database.apis;
 
 import uim.base;

@@ -1,3 +1,3 @@
-module uim.service.servicename.views;
+module uim.service.database.views;
 
 import uim.base;

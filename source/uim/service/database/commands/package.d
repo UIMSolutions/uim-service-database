@@ -1,3 +1,3 @@
-module uim.service.servicename.commands;
+module uim.service.database.commands;
 
 import uim.base;

@@ -1,5 +1,5 @@
 import vibe.vibe;
-import uim.service.servicename;
+import uim.service.database;
 
 void main()
 {
